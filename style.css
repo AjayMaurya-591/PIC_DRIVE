@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #ffd1d2!important;
+}
+.signup_box, .login_box{
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.inp_field{
+    border-radius: 25px;
+    border: none;
+}
+.generate_btn{
+    border-radius: 25px !important;
+    font-weight: 600 !important;
+}
+.strong_pwd_txt{
+    font-size: 16px;
+}
+#submit_btn{
+    width: 30%;
+}
+
